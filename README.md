@@ -85,13 +85,7 @@ The performance of each machine learning algorithm was evaluated using the **Mea
 
 ---
 
-## 📸 **Screenshots**
 
-Here’s a screenshot of the project in action, showcasing data visualization and analysis:
-
-![Project Screenshot](https://user-images.githubusercontent.com/88217702/236161843-2279cfc2-76dc-4bf7-ba4b-ea69e89e99e3.png)
-
----
 
 ## 📈 **Future Improvements**
 
